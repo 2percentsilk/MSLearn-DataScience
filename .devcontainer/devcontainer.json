@@ -1,5 +1,5 @@
 {
-	"dockerFile": "Dockerfile"
+  "dockerFile": "Dockerfile"
   
   // Install python extension"
   "extensions":["ms-python.python"],
